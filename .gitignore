@@ -1,0 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# macOS
+.DS_Store
+
+# Data files (if they're large or sensitive)
+# data/*.csv  # Uncomment if you don't want to track data files
+
